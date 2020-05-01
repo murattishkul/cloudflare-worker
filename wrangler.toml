@@ -1,0 +1,6 @@
+name = "murat-worker"
+type = "webpack"
+account_id = "c1d10df118210f7b4e306f3c94a7e7c7"
+workers_dev = true
+route = ""
+zone_id = ""
